@@ -1,9 +1,7 @@
-### Hi there 👋
-
-<!--
-**zorrex82/zorrex82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi, I'm Edinor Junior - Machine Learning Engineer
+![](https://github.com/zorrex82/zorrex82/blob/master/aboutMe.png)
+<!-- TO make screenshot of your code, copy below link:  
+https://carbon.now.sh/ -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
