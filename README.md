@@ -1,5 +1,5 @@
 ## Hi, I'm Edinor Junior - Machine Learning Engineer
-![](https://github.com/zorrex82/zorrex82/blob/master/aboutMe.png)
+![](https://github.com/zorrex82/zorrex82/blob/main/aboutMe.png)
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
 
