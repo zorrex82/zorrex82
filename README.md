@@ -5,10 +5,10 @@ https://carbon.now.sh/ -->
 
 ### Here are some repositories that I think you'll find interesting:
 
-* [Machine Learning Engineer]()
-* [Diversed Scripts]()
-* [Data APP 1]()
-* [Data APP 2]()
+* [Machine Learning Engineer](https://github.com/zorrex82/Machine_Learning_Engineer)
+* [Miscellaneous Scripts](https://github.com/zorrex82/miscellaneous_scripts)
+* [DNA Nucleotides Count](https://github.com/zorrex82/dna_nucleotides_count_data_app)
+* [Photo Editor Data App](https://github.com/zorrex82/app_photo_editor)
 
 ### I’m constantly learning:
 
