@@ -25,4 +25,7 @@ Best Regards!
 * Deep Learning
 * Algorithms
 
+**Background in:** Python, Machine Learning, R, Big Data and Neural Network.
+
 ### 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/edinorjr)
