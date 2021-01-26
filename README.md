@@ -1,6 +1,6 @@
-![](https://github.com/zorrex82/zorrex82/blob/main/aboutMe.png)
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/source.gif" alt="animated" />
+</p>
 
 
 # Edinor Júnior
