@@ -3,8 +3,7 @@
 </p>
 
 
-# Edinor Júnior
-<sub>*Machine Learning Engineer</sub>
+# Edinor Junior - Machine Learning Engineer
 
 I'm an enthusiast of the new techs, since 2014 when I created my first startup, called GoTalent, I begin to learning about big data and how the Machine Learning Algorithms could be modeling the society. 
 
