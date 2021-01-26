@@ -11,6 +11,8 @@ So, for the last six years I have come to study and work with data, specially wi
 
 Best Regards! 
 
+**Background in:** Python, Machine Learning, R, Big Data and Neural Network.
+
 ## Here are some repositories that I think you'll find interesting:
 
 * [Machine Learning Engineer](https://github.com/zorrex82/Machine_Learning_Engineer)
@@ -23,8 +25,6 @@ Best Regards!
 * Machine Learning
 * Deep Learning
 * Algorithms
-
-**Background in:** Python, Machine Learning, R, Big Data and Neural Network.
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/edinorjr)
