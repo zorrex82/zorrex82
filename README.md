@@ -19,6 +19,9 @@ Best Regards!
 * [Miscellaneous Scripts](https://github.com/zorrex82/miscellaneous_scripts)
 * [DNA Nucleotides Count](https://github.com/zorrex82/dna_nucleotides_count_data_app)
 * [Photo Editor Data App](https://github.com/zorrex82/app_photo_editor)
+* [Simple Stock Price](https://github.com/zorrex82/simple_stock_price)
+* [Aeronautical Occurrence](https://github.com/zorrex82/aeronautical_occurrence)
+* [A Small React Implementation](https://github.com/zorrex82/react_nerdflix)
 
 ## I’m constantly learning:
 
