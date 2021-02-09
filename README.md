@@ -21,7 +21,6 @@ Best Regards!
 * [Photo Editor Data App](https://github.com/zorrex82/app_photo_editor)
 * [Simple Stock Price](https://github.com/zorrex82/simple_stock_price)
 * [Aeronautical Occurrence](https://github.com/zorrex82/aeronautical_occurrence)
-* [A Small React Implementation](https://github.com/zorrex82/react_nerdflix)
 * [Flourish Visualization](https://github.com/zorrex82/first_flourish_visualization)
 
 ## I’m constantly learning:
