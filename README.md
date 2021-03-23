@@ -5,9 +5,9 @@
 
 # Edinor Junior - Machine Learning Engineer
 
-I am an enthusiast of new technologies, since 2014 when I created my first startup, called GoTalent, focused on the recruitment and selection of IT professionals, at the time we sought to create a ranking algorithm that would match the candidate with the ideal job, crossing data from different sources, from then on I started to seek to learn more and more about big data and how Machine Learning Algorithms could model society.
+I am a Machine Learning Engineer, since 2014 when I created my first startup, called GoTalent, at the time I sought to create a ranking algorithm that would match the candidate with the ideal job, crossing data from different sources, from then on I started to seek to learn more and more about big data and how Machine Learning Algorithms could model society.
 
-In the last six years I have been studying and working with data, especially with Python, using this powerful programming language for several purposes, from data analysis to creating Machine Learning models, some of my interests in AI refer to the use of Artificial Intelligence for Cybersecurity. Feel free to follow me and add my contact if you want to talk more about these matters.
+In the last six years I have been studying and working with data, especially with Python, using this powerful programming language for several purposes, from data analysis to creating data apps, some of my interests in AI refer to the use of Artificial Intelligence for Cybersecurity. Feel free to follow me and add my contact if you want to talk more about these matters.
 
 Best Regards!
 
