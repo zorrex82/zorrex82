@@ -31,3 +31,4 @@ Best Regards!
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/edinorjr)
+* [Instagram](https://www.instagram.com/codesciencebr)
