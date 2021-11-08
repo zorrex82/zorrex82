@@ -28,6 +28,10 @@ Best Regards!
 * Machine Learning
 * Deep Learning
 * Algorithms
+* Python
+* Data Pipelines
+* SQL
+* Cloud Solutions
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/edinorjr)
