@@ -26,6 +26,7 @@ Best Regards!
 
 ## I’m constantly learning:
 
+* Data Engineering
 * Machine Learning
 * Deep Learning
 * Algorithms
