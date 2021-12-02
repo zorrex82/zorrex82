@@ -3,7 +3,7 @@
 </p>
 
 
-# Edinor Junior - Machine Learning Engineer
+# Edinor Junior - Data Engineer
 
 I'm a Data Engineer, a Machine Learning and Cybersecurity enthusiast. My story with Big Data started in 2014 when I created my own Startup, called GoTalent, at that time we made algorithms to create a rank between the best candidates and job openings, crossing data from different sources.
 
