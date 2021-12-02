@@ -12,7 +12,7 @@ Feel free to follow me and add my contact if you want to talk more about these m
 
 Best Regards!
 
-**Background in:** Python, Machine Learning, R, Big Data and Neural Network.
+**Background in:** Python, Pyspark, AWS, Machine Learning, R, Big Data and Neural Network.
 
 ## Here are some repositories that I think you'll find interesting:
 
