@@ -5,14 +5,14 @@
 
 # Edinor Junior - Data Engineer
 
-I'm a Data Engineer, a Machine Learning and Cybersecurity enthusiast. My story with Big Data started in 2014 when I created my own Startup, called GoTalent, at that time we made algorithms to create a rank between the best candidates and job openings, crossing data from different sources.
+I'm a Data Engineer with great knowledge in Machine Learning and a Cybersecurity enthusiast. My story with Big Data started in 2014 when I created my own Startup, called GoTalent, at that time we made algorithms to create a rank between the best candidates and job openings, crossing data from different sources.
 
-Currently I'm focused on building data solutions, such as Data Lakes and Data Warehouses and deploys Machine Learning models on distributed platforms.
+Currently I'm focused on building data solutions, such as Data Lakes and Data Warehouses and create Machine Learning models on distributed platforms.
 Feel free to follow me and add my contact if you want to talk more about these matters.
 
 Best Regards!
 
-**Background in:** Python, Pyspark, AWS, Machine Learning, R, Big Data and Neural Network.
+**Background in:** Python, Pyspark, AWS, Azure, Machine Learning, R, Big Data and Neural Network.
 
 ## Here are some repositories that I think you'll find interesting:
 
