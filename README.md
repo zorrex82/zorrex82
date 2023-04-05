@@ -16,6 +16,7 @@ Best Regards!
 
 ## Here are some repositories that I think you'll find interesting:
 
+* [Terraform - ECS with Fargate](https://github.com/zorrex82/terraform_ecs_fargate)
 * [Machine Learning Engineer](https://github.com/zorrex82/Machine_Learning_Engineer)
 * [Miscellaneous Scripts](https://github.com/zorrex82/miscellaneous_scripts)
 * [DNA Nucleotides Count](https://github.com/zorrex82/dna_nucleotides_count_data_app)
